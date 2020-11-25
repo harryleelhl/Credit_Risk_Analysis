@@ -52,9 +52,9 @@ The balanced accuracy score is 93%.<br>The high_risk precision is 9% with 92% se
 ## Summary
 
 The model with the highest accuracy score was the Easy Ensemble Classifier. 
-The accuracy scores of the first four resampling models are very low compared to the last two Ensemble models.
-The high risk recall was at 93%. 
-None of the models could precisely predict high risk predictions.
-The low risk precision is 100% in all the models due to high numbers.
+<br>The accuracy scores of the first four resampling models are very low compared to the last two Ensemble models.
+<br>The high risk recall was at 93%. 
+<br>None of the models could precisely predict high risk predictions.
+<br>The low risk precision is 100% in all the models due to high numbers.
 
 I would recommend none of these models to predict credit risk. But the last two model (Ensemble models) would be better among the selection of these 6 models.
